@@ -21,4 +21,4 @@ Unlike traditional antivirus solutions, this system operates offline, using mach
 5. Future: Logging USB scan history, multi-USB scanning, performance optimization
 
 
-Developed by "Team EdgeSec" - **Priyanshu Jugran** (Team Lead)
+Developed by **Priyanshu Jugran**
