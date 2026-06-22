@@ -436,7 +436,7 @@ This project demonstrates practical implementation of:
 
 ## Author
 
-Priyanshu Jugran
+Priyanshu Jugran<br>
 CS Student - ML Enthusiast
 
 ---
